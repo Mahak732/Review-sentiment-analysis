@@ -36,15 +36,6 @@ It demonstrates skills in **web scraping, text preprocessing, sentiment analysis
 
 ---
 
-## 📂 Project Structure
-├── review.csv # Collected reviews dataset
-├── sentiment_analysis.ipynb # Full Jupyter Notebook with code & analysis
-├── requirements.txt # Required Python packages
-├── README.md # Project documentation
-
-
----
-
 ## 📸 Sample Visualizations
 - **Word Cloud of Customer Reviews**  
 - **Top 20 Most Common Words (Bar Plot)**  
